@@ -10,3 +10,8 @@ Maria Villar
 Cambio en padding, seccion footer
 https://github.com/elevillar/elevillar.github.io
 
+## Fork 3
+Estudiante:
+Tomás Vergara
+Cambio en titulo, y seccion contacto
+https://github.com/Tomas-Vergara-C/Tomas-Vergara-C.github.io
